@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+  border: 2px solid grey;
+  border-radius: 4px;
+  min-height: 80px;
+  align-items: center;
+  text-align: center;
+  display: grid;
+  grid-auto-rows: minmax(50px, auto);
+  grid-column-gap: 10px;
+  grid-row-gap: 1em;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+}
